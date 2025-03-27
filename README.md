@@ -97,4 +97,4 @@ Acknowledgments
 Inspired by economic research and data science communities.
 Thanks to open-source data providers and tool developers.
 Contact
-For questions or feedback, reach out to [Your Name/Email] or open an issue in the repository.
+For questions or feedback, reach out to Sukrith Pothnak / sukrith01@gmail.com or open an issue in the repository.
