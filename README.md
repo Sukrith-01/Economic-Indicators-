@@ -43,8 +43,6 @@ Collapse
 
 Wrap
 
-Copy
-git clone https://github.com/[YourUsername]/Economic-Indicators-and-Inflation-Analysis.git
 Navigate to the project directory:
 bash
 
